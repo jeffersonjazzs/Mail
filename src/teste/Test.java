@@ -11,7 +11,7 @@ import javax.mail.internet.InternetAddress;
 import javax.mail.internet.MimeMessage;
 
 public class Test {
-
+//add commit
 	public static void main(String[] args) {
 		Properties props = new Properties();
 
